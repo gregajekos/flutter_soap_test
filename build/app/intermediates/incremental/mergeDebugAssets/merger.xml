@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":flutter_socket_io"><source path="/Users/tovarnaidej/test_flutter_app/build/flutter_socket_io/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/tovarnaidej/test_flutter_app/android/app/src/main/assets"/><source path="/Users/tovarnaidej/test_flutter_app/build/app/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/tovarnaidej/test_flutter_app/android/app/src/debug/assets"/></dataSet></merger>
